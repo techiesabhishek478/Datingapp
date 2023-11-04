@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689771358593",
+    "project_id": "dating-app-471f8",
+    "storage_bucket": "dating-app-471f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689771358593:android:f52621cd94db4fd4a56080",
+        "android_client_info": {
+          "package_name": "com.techabhi.dating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaAlekqggMC6uP0OmqrZ3cWimKvxPkgUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
